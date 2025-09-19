@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="95bbdda9-d759-46ed-b710-219b0357363e.png" alt="Eng. Fathi Alasadi | Full Stack & DevOps Engineer" width="100%" />
+  <img src="95bbdda9-d759-46ed-b710-219b0357363e.png" alt="Eng. Fathi Alasadi | Full Stack & DevOps Engineer" width="50%" />
 </p>
 
 <h1 align="center">👋 مرحبًا، أنا Eng. Fathi Alasadi</h1>
