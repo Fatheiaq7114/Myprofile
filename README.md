@@ -22,9 +22,7 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,python,golang,html,css,js,react,flutter,androidstudio,git,github" />
 </p>
 
----
 
-## 📊 إحصائيات
 ## 📊 إحصائياتي
 
 <p align="center">
@@ -84,7 +82,7 @@
 
 ## ✨ Plus One Tech
 <p align="center">
-  <img src="A_logo_for_Plus_One_Tech_is_digitally_displayed_in.png" alt="Plus One Tech Logo" width="60%" />
+  <img src="c132c84b-80d7-4b1f-bf33-56b2a05bb75c__01.png" alt="Plus One Tech Logo" width="60%" />
 </p>
 <p align="center">
   <b>Plus One Tech | تطوير مواقع وتطبيقات احترافية</b><br>
